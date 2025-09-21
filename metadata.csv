@@ -1,0 +1,5 @@
+cord_uid,sha,source_x,title,doi,pmcid,pubmed_id,license,abstract,publish_time,journal
+1,a,bioRxiv,COVID-19 and healthcare,10.1,,,cc-by,Study of COVID impacts,2020-03-15,Journal A
+2,b,medRxiv,Vaccine trial results,10.2,PMC1,1001,cc-by-nc,Vaccine was tested,2021-06-01,Journal B
+3,c,PMC,SARS-CoV-2 genomic analysis,,PMC2,1002,cc-by,Genome sequences collected,2020-12-10,Journal C
+4,d,bioRxiv,Clinical outcomes study,10.4,,,cc-by,Patient outcomes analyzed,2021-01-20,Journal A
